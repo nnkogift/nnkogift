@@ -55,6 +55,6 @@ I lead a team of developers at [HISP Tanzania](https://hisptanzania.org), where 
 I'm always interested in collaborating on open source health tools, DHIS2 implementations, or anything at the intersection of data and public health.
 
 - 🌐 [nnkogift.me](https://nnkogift.me)
-- 💼 [LinkedIn](https://linkedin.com/in/nnkogift)
+- 💼 [LinkedIn](https://linkedin.com/in/gift-nnko)
 - 🏢 [HISP Tanzania](https://hisptanzania.org)
 - 📧 Reach me through my [website](https://nnkogift.me)
