@@ -2,8 +2,6 @@
 
 I'm a full-stack developer and health informatics engineer based in **Dar es Salaam, Tanzania**. For the past six years I've been building systems that help governments and health programs collect, understand, and act on data, because better information systems mean better health outcomes for real people.
 
-I lead a team of developers at [HISP Tanzania](https://hisptanzania.org), where we build and maintain DHIS2-based health information systems deployed across East and Southern Africa.
-
 ---
 
 ## What I work on
@@ -31,11 +29,10 @@ I lead a team of developers at [HISP Tanzania](https://hisptanzania.org), where 
 
 | Project | What it does |
 |---|---|
-| [DHIS2 FlexiPortal](https://github.com/hisptz/dhis2-public-portal) | Customizable public portal for sharing DHIS2 health data without authentication |
-| [Scorecard App](https://github.com/hisptz/scorecard-app) | Traffic-light performance monitoring for DHIS2 analytics |
-| [DHIS2 Flutter Toolkit](https://github.com/hisptz/dhis2-flutter-toolkit) | Cross-platform toolkit for building DHIS2 mobile apps in Flutter |
-| [Climate Data Import](https://github.com/hisptz/import_dhis2_climate_date) | Workflows for importing ERA5 and CHIRPS climate data into DHIS2 |
-| [Tanzania Health Portal](https://hmisportal.moh.go.tz/) | Tanzania Ministry of Health public data portal |
+| [dhis2-form-utils](https://github.com/nnkogift/dhis2-form-utils) | Composable, design-system-agnostic form library for building DHIS2 data entry interfaces in React |
+| [program-rules-playground](https://github.com/nnkogift/program-rules-playground) | DHIS2 app for testing, validating, and debugging configured program rules |
+| [dhis2-app-platform-plugin](https://github.com/nnkogift/dhis2-app-platform-plugin) | IntelliJ plugin with tools that simplify developing DHIS2 web apps on the app platform |
+| [analytics-tools](https://github.com/nnkogift/analytics-tools) | Utilities to convert visualization config into DHIS2 analytics API params |
 
 ---
 
@@ -56,5 +53,4 @@ I'm always interested in collaborating on open source health tools, DHIS2 implem
 
 - 🌐 [nnkogift.me](https://nnkogift.me)
 - 💼 [LinkedIn](https://linkedin.com/in/gift-nnko)
-- 🏢 [HISP Tanzania](https://hisptanzania.org)
 - 📧 Reach me through my [website](https://nnkogift.me)
